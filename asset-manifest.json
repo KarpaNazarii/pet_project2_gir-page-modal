@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pet_project2_gir-page-modal/static/css/main.eab0744e.css",
+    "main.js": "/pet_project2_gir-page-modal/static/js/main.8a631895.js",
+    "index.html": "/pet_project2_gir-page-modal/index.html",
+    "main.eab0744e.css.map": "/pet_project2_gir-page-modal/static/css/main.eab0744e.css.map",
+    "main.8a631895.js.map": "/pet_project2_gir-page-modal/static/js/main.8a631895.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eab0744e.css",
+    "static/js/main.8a631895.js"
+  ]
+}
